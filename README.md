@@ -38,5 +38,28 @@
 - Sau khi đặt xong các bóng đèn, người chơi có thể kiểm tra giải pháp của mình.
 - Nếu tất cả các ô trắng được chiếu sáng và tất cả các ô đen chứa số có đúng số bóng đèn kề, giải pháp được coi là hợp lệ và người chơi thắng cuộc.
 
-Dưới đây là hình ảnh câu đố đã được hoàn thành:
-![Uploading Screenshot 2024-06-11 210104.png…]()
+### Yêu cầu hệ thống
+
+- Python 3.x
+- Thư viện Pygame
+
+### Hướng dẫn cài đặt
+
+1. Clone kho lưu trữ về máy:
+
+    ```sh
+    git clone https://github.com/tentuoigia/turn-on-the-lights.git
+    ```
+
+2. Cài đặt các thư viện cần thiết:
+
+    ```sh
+    pip install pygame
+    ```
+
+### Chạy trò chơi
+
+Chạy tệp `main.py` để bắt đầu trò chơi:
+
+```sh
+python main.py
