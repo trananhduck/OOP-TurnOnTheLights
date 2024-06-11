@@ -17,3 +17,4 @@
 6. Quy tắc kiểm tra
 •	Sau khi đặt xong các bóng đèn, người chơi có thể kiểm tra giải pháp của mình.
 •	Nếu tất cả các ô trắng được chiếu sáng và tất cả các ô đen chứa số có đúng số bóng đèn kề, giải pháp được coi là hợp lệ và người chơi thắng cuộc.
+![image](https://github.com/trananhduck/OOP-TurnOnTheLights/assets/142285787/52b9b816-04f3-4fd4-b12a-32319a59b2d0)
