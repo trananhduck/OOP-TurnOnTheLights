@@ -1,3 +1,5 @@
+Đồ án cuối kì môn Lập trình hướng đối tượng (OOP) với đề tài "LẬP TRÌNH GAME GIẢI ĐỐ TURN ON THE LIGHTS" nhằm mục tiêu áp dụng những kiến thức đã học trong môn IT002.O21 tại trường Đại học Công nghệ Thông tin - Đại học Quốc gia Hồ Chí Minh vào việc xây dựng một trò chơi điện tử hoàn chỉnh. Trò chơi được phát triển bằng thư viện Pygame, một thư viện phổ biến dành cho lập trình game trong Python. Đồ án này không chỉ nhằm giúp sinh viên củng cố và nâng cao kỹ năng lập trình hướng đối tượng mà còn phát triển khả năng tư duy logic và sáng tạo.
+
 “Bật tắt bóng đèn” là một trò chơi giải đố với mục tiêu là chiếu sáng toàn bộ bảng chơi. Dưới đây là mô tả chi tiết về luật chơi và cách chơi trò chơi này:
 1. Cấu trúc bảng chơi
 •	Bảng chơi là một lưới hình vuông, kích thước m x n ô.
@@ -18,4 +20,5 @@
 •	Sau khi đặt xong các bóng đèn, người chơi có thể kiểm tra giải pháp của mình.
 •	Nếu tất cả các ô trắng được chiếu sáng và tất cả các ô đen chứa số có đúng số bóng đèn kề, giải pháp được coi là hợp lệ và người chơi thắng cuộc.
 Dưới đây là hình ảnh câu đố đã được hoàn thành:
-![image](https://github.com/trananhduck/OOP-TurnOnTheLights/assets/142285787/52b9b816-04f3-4fd4-b12a-32319a59b2d0)
+
+![Uploading image.png…]()
