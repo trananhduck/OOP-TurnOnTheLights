@@ -39,3 +39,4 @@
 - Nếu tất cả các ô trắng được chiếu sáng và tất cả các ô đen chứa số có đúng số bóng đèn kề, giải pháp được coi là hợp lệ và người chơi thắng cuộc.
 
 Dưới đây là hình ảnh câu đố đã được hoàn thành:
+![Uploading Screenshot 2024-06-11 210104.png…]()
