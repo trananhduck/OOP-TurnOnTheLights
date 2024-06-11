@@ -30,7 +30,7 @@ class Game:
         timer_font = pygame.font.SysFont('Arial', 36)
 
         if controller.mode == 'PLAY':
-            countdown_time = 5 * 61 * 1000 + 500  # 5 phút = 5 * 60 * 1000 milliseconds
+            countdown_time = 10 * 61 * 1000 + 500  # 10 phút = 10 * 60 * 1000 milliseconds
             time_left = max(0, countdown_time - elapsed_time)
             minutes = str(time_left // 60000).zfill(2)
             seconds = str((time_left // 1000) % 60).zfill(2)
