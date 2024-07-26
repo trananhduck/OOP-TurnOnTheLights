@@ -10,7 +10,7 @@
 
 ### Cấu trúc bảng chơi
 
-- Bảng chơi là một lưới hình vuông, kích thước m x n ô.
+- Bảng chơi là một lưới hình vuông, kích thước n x n ô (có 3 level với kích thước khác nhau, tăng dần).
 - Mỗi ô trên bảng có thể là một ô trắng, ô đen hoặc ô có số.
 
 ### Mục tiêu
